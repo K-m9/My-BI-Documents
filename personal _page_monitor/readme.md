@@ -8,4 +8,4 @@ Google Analytics Link:
 
 BigQuery screenshot:
 
-![image-20241231095303223](C:\Users\13416\AppData\Roaming\Typora\typora-user-images\image-20241231095303223.png)
+![image-20241231095303223](https://github.com/K-m9/My-BI-Documents/blob/main/personal%20_page_monitor/BigQuery_screenshot.png)
