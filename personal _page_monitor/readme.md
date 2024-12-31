@@ -6,7 +6,7 @@ Google Analytics Link:
 
 [Reports snapshot](https://analytics.google.com/analytics/web/?sjid=9762710300820933398-NC&visit_id=638708622342618165-543960880&rd=1#/p471171952/reports/reportinghub?params=_u..nav%3Dmaui&collectionId=10096641724)
 
-Looker Studio Link:
+LookerStudio Link:
 
 [User Attributes and Events Overview](https://lookerstudio.google.com/s/naPXzb4RBq8)
 
